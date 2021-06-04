@@ -36,5 +36,4 @@ public class GuitarTest {
 			System.out.println("Sorry, Erin, we have nothing for you.");
 		}
 	}
-
 }
